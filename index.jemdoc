@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Ziyang Yu
+
+~~~
+{}{img_left}{yuziyang.jpg}{Ziyang Yu}{131}{160}
+Ph.D. Candidate Student,\n [https://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering], \n[https://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]\n
+E-post: /yuziyang96/ \[@\] gmail.com
+~~~
+
+== About me
+Currently I'm a Ph.D. candidate student in computer and engineering from The Chinese University of Hong Kong (CUHK). 
+My supervisor is Professor [http://www.cse.cuhk.edu.hk/~byu/index.html Bei Yu].
+I received the B.S. degree in applied physics from The University of Science and Technology of China ([https://www.ustc.edu.cn/ USTC]) in 2018,
+and M.S. degree in applied physics from The University of Hong Kong ([https://www.hku.hk/ HKU]) in 2020.
+
+== Research
+My research interests include 
+- Computer Vision  
+- Design Space Exploration
+- Machine Learning
+
+== Publications
+=== Conference Papers
+- \[C2\] Ziyang Yu, Guojin Chen, Yuzhe Ma, Bei Yu, [http://www.cse.cuhk.edu.hk/~byu/papers/C115-DATE2021-LevelSet.pdf "A GPU-enabled Level Set Method for Mask Optimization"], IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 1-5, 2021.  
+- \[C1\] Yuzhe Ma, Ziyang Yu, Bei Yu,[https://ieeexplore.ieee.org/abstract/document/9142051/ "CAD Tool Design Space Exploration via Bayesian Optimization"], ACM/IEEE Workshop on Machine Learning for CAD (*MLCAD*), Alberta, Canada, Sep. 3-4, 2019.
+
+== Experience 
+=== Research Assistant | The University of Hong Kong
+- *Advisor*: Professor. [http://web.hku.hk/~jianwang/ Jian Wang]\n
+  Jan 2018 - May 2018
+
+== Awards
+Postgraduate Scholarship ~~~~~~~~~~~~~~~~~~~~~~~ HKU   ~~~  2018-2020\n
+Outstanding Ftudent Scholarship ~~~~~~~~~ USTC ~~~ 2015\n
+Outstanding Freshman Scholarship ~~~~~ USTC ~~~ 2014\n
