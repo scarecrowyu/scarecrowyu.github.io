@@ -1,9 +1,11 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
-==Ziyang Yu
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Qi SUN - The Chinese University of Hong Kong}
 
 ~~~
 {}{img_left}{yuziyang.jpg}{Ziyang Yu}{131}{160}
-Ph.D. Candidate Student,\n [https://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering], \n[https://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]\n
+Ph.D. Student,\n [https://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering], \n[https://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]\n
 E-post: /yuziyang96/ \[@\] gmail.com
 ~~~
 
