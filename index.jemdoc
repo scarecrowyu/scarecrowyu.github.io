@@ -23,9 +23,12 @@ My research interests include
 - Machine Learning
 
 == Publications
+=== Journal Papers
+- \[J1\] *Ziyang Yu*, Guojin Chen, Yuzhe Ma, Bei Yu, [https://ieeexplore.ieee.org/document/9777761 "A GPU-enabled Level Set Method for Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).  
+
 === Conference Papers
 - \[C3\] Guojin Chen, *Ziyang Yu*, Hongduo Liu, Yuzhe Ma, Bei Yu, [https://ieeexplore.ieee.org/document/9643464 "DevelSet: Deep Neural Level Set for Instant Mask Optimization"],IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 1–4, 2021.
-- \[C2\] *Ziyang Yu*, Guojin Chen, Yuzhe Ma, Bei Yu, [http://www.cse.cuhk.edu.hk/~byu/papers/C115-DATE2021-LevelSet.pdf "A GPU-enabled Level Set Method for Mask Optimization"], IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 1-5, 2021.  
+- \[C2\] *Ziyang Yu*, Guojin Chen, Yuzhe Ma, Bei Yu, [https://ieeexplore.ieee.org/document/9474212 "A GPU-enabled Level Set Method for Mask Optimization"], IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 1-5, 2021.  
 - \[C1\] Yuzhe Ma, *Ziyang Yu*, Bei Yu,[https://ieeexplore.ieee.org/abstract/document/9142051/ "CAD Tool Design Space Exploration via Bayesian Optimization"], ACM/IEEE Workshop on Machine Learning for CAD (*MLCAD*), Alberta, Canada, Sep. 3-4, 2019.
 
 == Experience 
