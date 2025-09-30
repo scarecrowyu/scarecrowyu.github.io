@@ -6,21 +6,22 @@
 
 ~~~
 {}{img_left}{yuziyang.jpg}{Ziyang Yu}{131}{160}
-Ph.D. Candidate,\n [https://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering], \n[https://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]\n
+Postdoctoral Fellow,\n [https://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering], \n[https://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]\n
 E-post: /yuziyang96/ \[@\] gmail.com
 ~~~
 
 == About me
-Currently I'm a Ph.D. candidate in computer science and engineering from [https://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]. 
-My supervisor is [http://www.cse.cuhk.edu.hk/~byu/index.html Prof. Bei Yu].
+Currently I'm a postdoctoral researcher at the Department of Computer Science and Engineering from [https://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)]. 
+I received my Ph.D. degree from CUHK in 2025, supervised by [http://www.cse.cuhk.edu.hk/~byu/index.html Prof. Bei Yu].
 Prior to that, I received the M.S. degree in applied physics from [https://www.hku.hk/ The University of Hong Kong (HKU)] in 2020 under the supervision of [http://web.hku.hk/~jianwang/ Prof. Jian Wang], and B.S. degree in applied physics from [https://www.ustc.edu.cn/ The University of Science and Technology of China (USTC)] in 2018.
 
 
 == Research
 My research interests include 
-- Electronic Design Automation  
-- Design Space Exploration
-- Machine Learning
+- Optimization and deep learning in Electronic Design Automation 
+- Design for manufacturing  
+- Design space exploration
+- Causal inference and out of distribution 
 
 == Publications
 === Journal Papers
@@ -64,12 +65,26 @@ My research interests include
 - 2019 Fall: PHYS4150 Computational Physics
 - 2019 Spring: PHYS2250 Introductory Mechanics
 
-== Experience 
+== Experience
+=== Postdoctoral Fellow | The Chinese University of Hong Kong
+- *Advisor*: [http://www.cse.cuhk.edu.hk/~byu/index.html Prof. Bei Yu]\n
+  Sep. 2025 - Present
+
+=== Research Assistant | The Chinese University of Hong Kong
+- *Advisor*: [http://www.cse.cuhk.edu.hk/~byu/index.html Prof. Bei Yu]\n
+  July 2025 - Aug. 2025
+
+=== Research Intern | Huawei Noah Ark's Lab
+- *Group*: Reasoning and Decision-Making Lab\n
+ June 2022 - Sep. 2023
+ 
 === Research Assistant | The University of Hong Kong
 - *Advisor*: [https://www.physics.hku.hk/people/academic/319 Prof. Jian Wang]\n
   Jan 2018 - May 2018
 
-== Awards
+== Selected Awards
+Best Doctoral Dissertation Award ~~~~~~~~~~~~~~EDA Ecosystem Development Accelerator ~~ 2025\n
+DAC Young Fellow ~~~~~~ DAC ~~ 2025\n
 Postgraduate Scholarship ~~~~~~~~~~~~~~~~~~~~~~~ CUHK ~~ 2021-2024\n
 Postgraduate Scholarship ~~~~~~~~~~~~~~~~~~~~~~~ HKU   ~~~  2018-2020\n
 Outstanding Student Scholarship ~~~~~~~~~ USTC ~~~ 2015\n
