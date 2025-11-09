@@ -42,18 +42,31 @@ My research interests include
 
 === Conference Papers
 - \[C14\] Peng Xu\*, *Ziyang Yu\* *, Yuan Pu, Xinyun Zhang, Donger Luo, Hao Geng, Siyuan Xu, Tsung-Yi Ho, Bei Yu, "RATuner: Retrieval-Augmented VLSI Flow Design Parameter Tuning Framework”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+
 - \[C13\] Su Zheng, *Ziyang Yu\# *, Bei Yu\#, Martin Wong, “Scalable Second-Order Optimizer for Full-Chip Inverse Lithography Techniques”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+
 - \[C12\] Xinheng Li, Donger Luo, Peng Xu, *Ziyang Yu*, Qi Sun, Tinghuan Chen, Bei Yu, Hao Geng, "EDA Flow Matters: Stage-Aware Parameter Optimization of Tool Chain”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
+
 - \[C11\] Shuo Yin, Su Zheng, *Ziyang Yu\# *, Bei Yu\#, “TorchLitho 2.0: Ultrafast Differentiable Lithography Simulation Engine”, IEEE International Conference on ASIC (*ASICON*), Kunming, Oct. 21–24, 2025.(*Invited Paper*)
+
 - \[C10\] *Ziyang Yu*, Bei Yu, "Large-Scale VLSI Mask Optimization: A Survey", International Workshop on Advanced Patterning Solutions (*IWAPS*), Shenzhen, Oct. 14–15, 2025.(*Keynote Paper*)
+
 - \[C9\] *Ziyang Yu\* *, Peng Xu\*, Su Zheng, Siyuan Xu, Hao Geng, Bei Yu, Martin Wong, "CausalTuner: Will Causality Help High-Dimensional EDA Tool Parameter Tuning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong, Jan. 19-22, 2026.
+
 - \[C8\] *Ziyang Yu*, Peng Xu, Zixiao Wang, Binwu Zhu, Qipan Wang, Yibo Lin, Runsheng Wang, Bei Yu, Martin Wong, [https://ieeexplore.ieee.org/document/11133153 “SDM-PEB: Spatial-Depthwise Mamba for Enhanced Post-Exposure Bake Simulation”], ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
+
 - \[C7\] Su Zheng, Xiaoxiao Liang, *Ziyang Yu*, Yuzhe Ma, Bei Yu and Martin Wong, [https://ieeexplore.ieee.org/document/11133367 “Curvilinear Optical Proximity Correction via Cardinal Spline”], ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
+
 - \[C6\] Fangzhou Liu, Zehua Pei, *Ziyang Yu*, Haisheng Zheng, Zhuolun He, Tinghuan Chen, Bei Yu, [https://ieeexplore.ieee.org/document/10546766 "CBTune: Contextual Bandit Tuning for Logic Synthesis"], IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Valencia, Spain, Mar. 25–27, 2024.
+
 - \[C5\] *Ziyang Yu*, Chen Bai, Shoubo Hu, Ran Chen, Taohai He, Mingxuan Yuan, Bei Yu, Martin Wong, [https://doi.org/10.1109/ICCAD57390.2023.10323961 "IT-DSE: Invariant Risk Minimized Transfer Microarchitecture Design Space Exploration"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), San Francisco, Oct. 29–Nov. 02, 2023.
+
 - \[C4\] Wenqian Zhao, Xufeng Yao, *Ziyang Yu*, Guojin Chen, Yuzhe Ma, Bei Yu, [https://dl.acm.org/doi/10.1145/3508352.3549468 "AdaOPC: A Self-Adaptive Mask Optimization Framework For Real Design Patterns"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Oct. 30–Nov. 3, 2022.
+
 - \[C3\] Guojin Chen, *Ziyang Yu*, Hongduo Liu, Yuzhe Ma, Bei Yu, [https://ieeexplore.ieee.org/document/9643464 "DevelSet: Deep Neural Level Set for Instant Mask Optimization"],IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 1–4, 2021.
+
 - \[C2\] *Ziyang Yu*, Guojin Chen, Yuzhe Ma, Bei Yu, [https://ieeexplore.ieee.org/document/9474212 "A GPU-enabled Level Set Method for Mask Optimization"], IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 1-5, 2021.  
+
 - \[C1\] Yuzhe Ma, *Ziyang Yu*, Bei Yu,[https://ieeexplore.ieee.org/abstract/document/9142051/ "CAD Tool Design Space Exploration via Bayesian Optimization"], ACM/IEEE Workshop on Machine Learning for CAD (*MLCAD*), Alberta, Canada, Sep. 3-4, 2019.
 
 == Projects
