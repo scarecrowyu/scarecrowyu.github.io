@@ -26,6 +26,8 @@ My research interests include
 == Publications
 \* denotes equal contribution, \# denotes corresponding author.
 === Journal Papers
+- \[J8\] Fangzhou Liu, Wuqian Tang, Zehua Pei, *Ziyang Yu*,Haisheng Zheng, Zhuolun He, Mengjia Dai, Tinghuan Chen, Bei Yu, “CB-EVO: Contextual Bandit Tuning with Evolutionary Search for Logic Synthesis”, accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+
 - \[J7\] Peng Xu, Su Zheng, Mingzi Wang, *Ziyang Yu*, Shixin Chen, Tinghuan Chen, Keren Zhu, Tsung-Yi Ho, Bei Yu, “Rank-DSE: Neural Pareto Comparator of Microarchitecture Design Space Exploration”, accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*)
 
 - \[J6\] *Ziyang Yu*, Su Zheng, Wenqian Zhao, Shuo Yin, Xiaoxiao Liang, Guojin Chen, Yuzhe Ma, Bei Yu, Martin D.F. Wong, [https://ieeexplore.ieee.org/document/10753456 "RuleLearner: OPC Rule Extraction from Inverse Lithography Technique Engine"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
