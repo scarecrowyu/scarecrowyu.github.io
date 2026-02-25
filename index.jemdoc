@@ -26,6 +26,10 @@ My research interests include
 == Publications
 \* denotes equal contribution, \# denotes corresponding author.
 === Journal Papers
+- \[J10\] Yu Feng, *Ziyang Yu*, Haoyu Wang, Yiming Xu, Jiaqi Liu, Bei Yu, Shisheng Xiong, “ForgePattern: Flexible Layout Pattern Generation through Reinforcement Learning”, accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+
+- \[J9\] Shuo Yin, *Ziyang Yu\# *, Wenqian Zhao, Lancheng Zou, Jiahao Xu, Su Zheng, Yuzhe Ma, Tsung-Yi Ho, Bei Yu, “FuILT-S: Full Chip ILT With Unified Boundary Healing and SRAF Co-Optimization”, accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
+
 - \[J8\] Fangzhou Liu, Wuqian Tang, Zehua Pei, *Ziyang Yu*,Haisheng Zheng, Zhuolun He, Mengjia Dai, Tinghuan Chen, Bei Yu, “CB-EVO: Contextual Bandit Tuning with Evolutionary Search for Logic Synthesis”, accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*).
 
 - \[J7\] Peng Xu, Su Zheng, Mingzi Wang, *Ziyang Yu*, Shixin Chen, Tinghuan Chen, Keren Zhu, Tsung-Yi Ho, Bei Yu, “Rank-DSE: Neural Pareto Comparator of Microarchitecture Design Space Exploration”, accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*)
@@ -43,6 +47,10 @@ My research interests include
 - \[J1\] *Ziyang Yu*, Guojin Chen, Yuzhe Ma, Bei Yu, [https://ieeexplore.ieee.org/document/9777761 "A GPU-enabled Level Set Method for Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).  
 
 === Conference Papers
+- \[C16\] *Ziyang Yu*, Shuo Yin, Su Zheng, Xiaoxiao Liang, Yuzhe Ma, Bei Yu, “Coordinated Clip-Wise Gradient Scheduling for Full-Chip ILT via Policy Learning”, ACM/IEEE Design Automation Conference (*DAC*), Long Beach, Jul. 26–29, 2026. 
+
+- \[C15\] Hongquan He, *Ziyang Yu*, Jiaqi Liu, Bei Yu, Jingyi Yu, Hao Geng, “CPW-SMO: Generating Mask Sets and Common Source for Maximum Common Process Window”, ACM/IEEE Design Automation Conference (*DAC*), Long Beach, Jul. 26–29, 2026.
+
 - \[C14\] Peng Xu\*, *Ziyang Yu\* *, Yuan Pu, Xinyun Zhang, Donger Luo, Hao Geng, Siyuan Xu, Tsung-Yi Ho, Bei Yu, "RATuner: Retrieval-Augmented VLSI Flow Design Parameter Tuning Framework”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
 
 - \[C13\] Su Zheng, *Ziyang Yu\# *, Bei Yu\#, Martin Wong, “Scalable Second-Order Optimizer for Full-Chip Inverse Lithography Techniques”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
