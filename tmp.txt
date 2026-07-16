@@ -1,0 +1,3 @@
+- \[C18\] Chaofan Wang, *Ziyang Yu\# *, Su Zheng, Zixiao Wang, Yifan Shi, Bei Yu\#, “Moreau-ILT: Efficient Inverse Lithography Exploiting Weak Convexity”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), San Jose, Nov. 08–12, 2026.
+
+- \[C17\] Mengjia Dai, *Ziyang Yu\# *, Guojin Chen, Yuhao Ji, Bei Yu\#, “Multi-Mask Parametric Source Mask Optimization”, IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), San Jose, Nov. 08–12, 2026.
